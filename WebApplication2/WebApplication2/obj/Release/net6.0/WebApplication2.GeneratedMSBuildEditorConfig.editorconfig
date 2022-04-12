@@ -1,0 +1,124 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication2
+build_property.RootNamespace = WebApplication2
+build_property.ProjectDir = D:\1004_BDAT\Projects\WebApplication2\WebApplication2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\1004_BDAT\Projects\WebApplication2\WebApplication2
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uZmlybUVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Contacts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Contacts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Contacts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Contacts/Details2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcRGV0YWlsczIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Contacts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Contacts/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/ExternalLoginConfirmationViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXh0ZXJuYWxMb2dpbkNvbmZpcm1hdGlvblZpZXdNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/ExternalLoginFailure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXh0ZXJuYWxMb2dpbkZhaWx1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yZ290UGFzc3dvcmRDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/ForgotPasswordViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yZ290UGFzc3dvcmRWaWV3TW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9ja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXRQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/SendCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VuZENvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/VerifyCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVyaWZ5Q29kZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1004_BDAT/Projects/WebApplication2/WebApplication2/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-274z30g9x2
